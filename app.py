@@ -1,0 +1,2 @@
+import requests
+URL="https://www.amazon.in/dp/B0C7V84BS2/ref=QAHzEditorial_en_IN_1?pf_rd_r=EH7FX6FD5JPPW8YYN9M0&pf_rd_p=ede1d835-2e89-4f83-ba6a-5f71d726832b&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-2&pf_rd_t=&pf_rd_i=1389401031&th=1"
